@@ -1,4 +1,6 @@
 # data-analytics-project
+PROJECT DESCRIPTION
+
 
 The project aims to analyze transactional sales data from multiple Walmart branches to gain valuable business insights and identify patterns in customer purchasing behavior. The dataset includes over 10,000 sales records with attributes such as store location, product category, unit price, quantity, date and time of purchase, payment method, customer ratings, and profit margins. The primary objective is to perform comprehensive exploratory data analysis (EDA), data cleaning, and visualization to uncover key performance indicators (KPIs) for decision-making.
 
@@ -16,7 +18,9 @@ Creating visual dashboards and reports to communicate findings.
 
 This analysis supports Walmart’s strategic planning by identifying peak sales periods, high-performing categories, and customer satisfaction trends, thereby helping optimize inventory management, marketing, and pricing strategies.
 
-Project Outcome:
+PROJECT OUTCOME:
+
+
 Cleaned and structured dataset ready for analysis, with unit prices and quantities correctly formatted and missing data addressed.
 
 Insightful visualizations showing:
